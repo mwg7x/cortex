@@ -1,0 +1,838 @@
+{
+  "patients": [
+    {
+      "id": "_E27zSfj",
+      "name": "Ahmed Essam",
+      "labels": [],
+      "reports": [
+        {
+          "text": "Hi I broke my leg any advice?",
+          "timestamp": "2026-02-15T04:29:21.865Z"
+        }
+      ],
+      "createdAt": "2026-02-15T04:28:30.402Z",
+      "condition": "Broken Leg",
+      "analysis": {
+        "isSafe": true,
+        "interactions": [],
+        "schedule": [
+          {
+            "medication": "Paracetamol",
+            "times": [
+              "08:00",
+              "20:00"
+            ]
+          },
+          {
+            "medication": "Alphacemol",
+            "times": [
+              "08:00",
+              "14:00",
+              "20:00"
+            ]
+          }
+        ],
+        "recommendations": []
+      },
+      "medications": [
+        {
+          "name": "Paracetamol",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "Alphacemol",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ],
+      "feedback": [
+        {
+          "text": "Is it Requires Surgery?",
+          "timestamp": "2026-02-15T04:32:21.922Z"
+        },
+        {
+          "text": "Not at the moment :)",
+          "timestamp": "2026-02-15T04:40:58.024Z",
+          "sender": "doctor"
+        }
+      ]
+    },
+    {
+      "id": "frX2uTDC",
+      "name": "John",
+      "labels": [],
+      "reports": [],
+      "createdAt": "2026-02-15T04:57:09.952Z"
+    },
+    {
+      "id": "_nQx_SoK",
+      "name": "Gouda",
+      "labels": [],
+      "reports": [
+        {
+          "text": "i Have A Headache",
+          "timestamp": "2026-02-15T05:50:43.824Z"
+        }
+      ],
+      "createdAt": "2026-02-15T05:50:11.888Z",
+      "condition": "IDK",
+      "analysis": {
+        "isSafe": true,
+        "interactions": [],
+        "schedule": [
+          {
+            "medication": "Warfarin",
+            "times": [
+              "08:00",
+              "14:00",
+              "20:00"
+            ]
+          },
+          {
+            "medication": "Aspirin",
+            "times": [
+              "08:00",
+              "14:00",
+              "20:00"
+            ]
+          }
+        ],
+        "recommendations": []
+      },
+      "medications": [
+        {
+          "name": "Warfarin",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "Aspirin",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ]
+    },
+    {
+      "id": "F4ePox4d",
+      "name": "Mohammed Waleed",
+      "labels": [],
+      "reports": [
+        {
+          "text": "i have pain in my sholder",
+          "timestamp": "2026-02-15T12:06:29.619Z"
+        }
+      ],
+      "createdAt": "2026-02-15T12:06:04.991Z",
+      "condition": "Sholder pain",
+      "analysis": {
+        "isSafe": true,
+        "interactions": [],
+        "schedule": [
+          {
+            "medication": "Panadol",
+            "times": [
+              "08:00"
+            ]
+          },
+          {
+            "medication": "paracetmol",
+            "times": [
+              "08:00",
+              "14:00",
+              "20:00"
+            ]
+          }
+        ],
+        "recommendations": []
+      },
+      "medications": [
+        {
+          "name": "Panadol",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "paracetmol",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ],
+      "feedback": [
+        {
+          "text": "la2 ya doctor",
+          "timestamp": "2026-02-15T12:07:52.810Z",
+          "sender": "patient"
+        },
+        {
+          "text": "bs ya mohamed",
+          "timestamp": "2026-02-15T12:08:02.417Z",
+          "sender": "doctor"
+        }
+      ]
+    },
+    {
+      "id": "pXgtBUPo",
+      "name": "Ahmed Ehab",
+      "labels": [],
+      "reports": [
+        {
+          "text": "i have headache\n",
+          "timestamp": "2026-02-15T12:11:55.681Z"
+        }
+      ],
+      "createdAt": "2026-02-15T12:11:47.610Z",
+      "condition": "rrr",
+      "analysis": {
+        "isSafe": true,
+        "interactions": [],
+        "schedule": [
+          {
+            "medication": "rrr",
+            "times": [
+              "08:00"
+            ]
+          },
+          {
+            "medication": "ggg",
+            "times": [
+              "08:00"
+            ]
+          }
+        ],
+        "recommendations": []
+      },
+      "medications": [
+        {
+          "name": "rrr",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "ggg",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ],
+      "feedback": [
+        {
+          "text": "rfrrrrrrrrr",
+          "timestamp": "2026-02-15T12:13:36.450Z",
+          "sender": "patient"
+        },
+        {
+          "text": "tft",
+          "timestamp": "2026-02-15T12:13:41.525Z",
+          "sender": "doctor"
+        }
+      ]
+    },
+    {
+      "id": "PInGKam6",
+      "name": "Ahmedgg",
+      "labels": [],
+      "reports": [
+        {
+          "text": "i have headache\n",
+          "timestamp": "2026-02-15T14:18:07.467Z"
+        }
+      ],
+      "createdAt": "2026-02-15T14:18:01.121Z",
+      "condition": "IDK",
+      "analysis": {
+        "isSafe": true,
+        "interactions": [],
+        "schedule": [
+          {
+            "medication": "Aspirin",
+            "times": [
+              "08:00",
+              "20:00"
+            ]
+          },
+          {
+            "medication": "Warfarin",
+            "times": [
+              "08:00",
+              "14:00",
+              "20:00"
+            ]
+          }
+        ],
+        "recommendations": []
+      },
+      "medications": [
+        {
+          "name": "Aspirin",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "Warfarin",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ]
+    },
+    {
+      "id": "yJWkEUx_",
+      "name": "nadaaaaaaaaa",
+      "labels": [],
+      "reports": [
+        {
+          "text": "i have shit\n",
+          "timestamp": "2026-02-15T14:24:54.203Z"
+        }
+      ],
+      "createdAt": "2026-02-15T14:24:49.492Z",
+      "condition": "IDK",
+      "analysis": {
+        "isSafe": false,
+        "interactions": [
+          {
+            "medications": [
+              "Aspirin",
+              "Warfarin"
+            ],
+            "severity": "major",
+            "reason": "Potential interaction detected by the external AI model.",
+            "canSeparateBySchedule": false
+          }
+        ],
+        "schedule": [
+          {
+            "medication": "Aspirin",
+            "times": [
+              "08:00"
+            ]
+          },
+          {
+            "medication": "Warfarin",
+            "times": [
+              "08:00"
+            ]
+          }
+        ],
+        "recommendations": [
+          {
+            "type": "replace_medication",
+            "title": "Review Aspirin + Warfarin",
+            "details": "Potential interaction detected by the external AI model."
+          }
+        ]
+      },
+      "medications": [
+        {
+          "name": "Aspirin",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "Warfarin",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ],
+      "feedback": [
+        {
+          "text": "alright",
+          "timestamp": "2026-02-15T14:28:45.952Z",
+          "sender": "patient"
+        }
+      ]
+    },
+    {
+      "id": "ao8Jg-gP",
+      "name": "Ahmed Waleed",
+      "labels": [],
+      "reports": [
+        {
+          "text": "After the surgery i feel pain in my head what should i do?\n",
+          "timestamp": "2026-02-15T16:30:49.574Z"
+        }
+      ],
+      "createdAt": "2026-02-15T16:30:33.991Z",
+      "condition": "Normal Headache",
+      "analysis": {
+        "isSafe": false,
+        "interactions": [
+          {
+            "medications": [
+              "Aspirin",
+              "Warfarin"
+            ],
+            "severity": "major",
+            "reason": "Increased bleeding risk from additive anticoagulant effects.",
+            "canSeparateBySchedule": false,
+            "alternatives": {
+              "aspirin": [
+                "clopidogrel"
+              ],
+              "warfarin": [
+                "apixaban"
+              ]
+            }
+          }
+        ],
+        "schedule": [
+          {
+            "medication": "Aspirin",
+            "times": [
+              "08:00"
+            ]
+          },
+          {
+            "medication": "Warfarin",
+            "times": [
+              "08:00",
+              "14:00",
+              "20:00"
+            ]
+          }
+        ],
+        "recommendations": [
+          {
+            "type": "replace_medication",
+            "title": "Replace one medication in Aspirin + Warfarin",
+            "details": "Increased bleeding risk from additive anticoagulant effects. Safer options: review formulary alternatives"
+          }
+        ]
+      },
+      "medications": [
+        {
+          "name": "Aspirin",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "Warfarin",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ],
+      "feedback": [
+        {
+          "text": "Doctor i feel better rn",
+          "timestamp": "2026-02-15T16:32:51.540Z",
+          "sender": "patient"
+        }
+      ]
+    },
+    {
+      "id": "VbUM9HQd",
+      "name": "mohamed",
+      "labels": [],
+      "reports": [
+        {
+          "text": "i have cold",
+          "timestamp": "2026-02-15T16:47:09.278Z"
+        }
+      ],
+      "createdAt": "2026-02-15T16:46:51.761Z"
+    },
+    {
+      "id": "SNNBz3Ss",
+      "name": "jjjjjjj",
+      "labels": [],
+      "reports": [
+        {
+          "text": "sssssssssssssss",
+          "timestamp": "2026-02-16T11:43:38.074Z"
+        }
+      ],
+      "createdAt": "2026-02-16T11:43:34.172Z"
+    },
+    {
+      "id": "a26FKTRn",
+      "name": "Ahmed Ehab",
+      "labels": [],
+      "reports": [
+        {
+          "text": "I got a headche after the surgery\n",
+          "timestamp": "2026-02-16T12:33:49.826Z"
+        }
+      ],
+      "createdAt": "2026-02-16T12:33:38.982Z",
+      "condition": "Headache Diagnose",
+      "analysis": {
+        "isSafe": true,
+        "interactions": [],
+        "schedule": [
+          {
+            "medication": "Panadol",
+            "times": [
+              "08:00"
+            ]
+          },
+          {
+            "medication": "Alpower",
+            "times": [
+              "08:00"
+            ]
+          }
+        ],
+        "recommendations": []
+      },
+      "medications": [
+        {
+          "name": "Panadol",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "Alpower",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ]
+    },
+    {
+      "id": "GKhcxwsY",
+      "name": "Ahmed Mohamed ",
+      "labels": [],
+      "reports": [
+        {
+          "text": "After The surgery i feel pain like a headache, what should i do",
+          "timestamp": "2026-02-16T13:26:36.840Z"
+        }
+      ],
+      "createdAt": "2026-02-16T13:25:54.460Z",
+      "feedback": [],
+      "conditionsHistory": [],
+      "medicalHistory": [
+        {
+          "id": "1771248396840-kufboj",
+          "category": "symptom_report",
+          "title": "Symptom Report Submitted",
+          "details": "After The surgery i feel pain like a headache, what should i do",
+          "timestamp": "2026-02-16T13:26:36.840Z"
+        }
+      ]
+    },
+    {
+      "id": "vxuh81uU",
+      "name": "Ahmed Nasser",
+      "labels": [],
+      "reports": [
+        {
+          "text": "I had a surgery and i got headache after any solutions?",
+          "timestamp": "2026-02-16T13:34:32.652Z"
+        }
+      ],
+      "createdAt": "2026-02-16T13:34:01.730Z",
+      "feedback": [
+        {
+          "text": "Thanks",
+          "timestamp": "2026-02-16T13:41:16.357Z",
+          "sender": "patient"
+        }
+      ],
+      "conditionsHistory": [
+        {
+          "condition": "Headache ",
+          "timestamp": "2026-02-16T13:41:04.633Z"
+        },
+        {
+          "condition": "Headache ",
+          "timestamp": "2026-02-16T15:00:50.165Z"
+        }
+      ],
+      "medicalHistory": [
+        {
+          "id": "1771248872652-hdf5ng",
+          "category": "symptom_report",
+          "title": "Symptom Report Submitted",
+          "details": "I had a surgery and i got headache after any solutions?",
+          "timestamp": "2026-02-16T13:34:32.652Z"
+        },
+        {
+          "id": "1771249264633-1e7wdh",
+          "category": "condition_recorded",
+          "title": "Condition Recorded",
+          "details": "Headache ",
+          "timestamp": "2026-02-16T13:41:04.633Z"
+        },
+        {
+          "id": "1771249265182-zxpp63",
+          "category": "medication_plan_generated",
+          "title": "Medication Plan Generated",
+          "details": "Ibuprofen (08:00) | Gabapentin (08:00)",
+          "timestamp": "2026-02-16T13:41:05.182Z"
+        },
+        {
+          "id": "1771249276357-6w9fnb",
+          "category": "message_patient",
+          "title": "Patient Message",
+          "details": "Thanks",
+          "timestamp": "2026-02-16T13:41:16.357Z"
+        },
+        {
+          "id": "1771254050166-kvqzos",
+          "category": "condition_recorded",
+          "title": "Condition Recorded",
+          "details": "Headache ",
+          "timestamp": "2026-02-16T15:00:50.165Z"
+        },
+        {
+          "id": "1771254050548-xxplve",
+          "category": "medication_plan_generated",
+          "title": "Medication Plan Generated",
+          "details": "Ibuprofen (08:00) | Gabapentin (08:00)",
+          "timestamp": "2026-02-16T15:00:50.548Z"
+        }
+      ],
+      "condition": "Headache ",
+      "analysis": {
+        "isSafe": true,
+        "interactions": [],
+        "schedule": [
+          {
+            "medication": "Ibuprofen",
+            "times": [
+              "08:00"
+            ]
+          },
+          {
+            "medication": "Gabapentin",
+            "times": [
+              "08:00"
+            ]
+          }
+        ],
+        "recommendations": []
+      },
+      "medications": [
+        {
+          "name": "Ibuprofen",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "Gabapentin",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ]
+    },
+    {
+      "id": "u3HZ6sG-",
+      "name": "h",
+      "labels": [],
+      "reports": [],
+      "createdAt": "2026-02-16T15:03:38.478Z",
+      "feedback": [],
+      "conditionsHistory": [],
+      "medicalHistory": []
+    },
+    {
+      "id": "ILj7m9Gh",
+      "name": "ahmed ali ",
+      "labels": [],
+      "reports": [
+        {
+          "text": "i have a headache ",
+          "timestamp": "2026-02-16T15:06:17.415Z"
+        }
+      ],
+      "createdAt": "2026-02-16T15:05:50.207Z",
+      "feedback": [],
+      "conditionsHistory": [
+        {
+          "condition": "headache",
+          "timestamp": "2026-02-16T15:09:32.917Z"
+        }
+      ],
+      "medicalHistory": [
+        {
+          "id": "1771254377415-xy4kj7",
+          "category": "symptom_report",
+          "title": "Symptom Report Submitted",
+          "details": "i have a headache ",
+          "timestamp": "2026-02-16T15:06:17.415Z"
+        },
+        {
+          "id": "1771254572917-cafes0",
+          "category": "condition_recorded",
+          "title": "Condition Recorded",
+          "details": "headache",
+          "timestamp": "2026-02-16T15:09:32.917Z"
+        },
+        {
+          "id": "1771254573466-xao1dv",
+          "category": "medication_plan_generated",
+          "title": "Medication Plan Generated",
+          "details": "panadole (08:00, 14:00, 20:00) | morphine (08:00, 14:00, 20:00)",
+          "timestamp": "2026-02-16T15:09:33.466Z"
+        }
+      ],
+      "condition": "headache",
+      "analysis": {
+        "isSafe": true,
+        "interactions": [],
+        "schedule": [
+          {
+            "medication": "panadole",
+            "times": [
+              "08:00",
+              "14:00",
+              "20:00"
+            ]
+          },
+          {
+            "medication": "morphine",
+            "times": [
+              "08:00",
+              "14:00",
+              "20:00"
+            ]
+          }
+        ],
+        "recommendations": []
+      },
+      "medications": [
+        {
+          "name": "panadole",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "morphine",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ]
+    },
+    {
+      "id": "gmx4cynK",
+      "name": "k",
+      "labels": [],
+      "reports": [],
+      "createdAt": "2026-02-16T15:36:18.480Z",
+      "feedback": [],
+      "conditionsHistory": [],
+      "medicalHistory": []
+    },
+    {
+      "id": "0nne_wim",
+      "name": "Mohamed",
+      "labels": [],
+      "reports": [
+        {
+          "text": "I have a headache",
+          "timestamp": "2026-02-16T16:03:50.802Z"
+        }
+      ],
+      "createdAt": "2026-02-16T16:03:25.236Z",
+      "feedback": [],
+      "conditionsHistory": [],
+      "medicalHistory": [
+        {
+          "id": "1771257830802-r6jmfk",
+          "category": "symptom_report",
+          "title": "Symptom Report Submitted",
+          "details": "I have a headache",
+          "timestamp": "2026-02-16T16:03:50.802Z"
+        }
+      ]
+    },
+    {
+      "id": "PXRA_ocy",
+      "name": "Ahmed",
+      "labels": [],
+      "reports": [
+        {
+          "text": "I had pain in my leg",
+          "timestamp": "2026-02-16T17:16:56.244Z"
+        }
+      ],
+      "createdAt": "2026-02-16T17:16:46.022Z",
+      "feedback": [],
+      "conditionsHistory": [],
+      "medicalHistory": [
+        {
+          "id": "1771262216244-8yn4jv",
+          "category": "symptom_report",
+          "title": "Symptom Report Submitted",
+          "details": "I had pain in my leg",
+          "timestamp": "2026-02-16T17:16:56.244Z"
+        }
+      ]
+    },
+    {
+      "id": "-UFkciHg",
+      "name": "Mohamed ",
+      "labels": [],
+      "reports": [
+        {
+          "text": "Pain in the head",
+          "timestamp": "2026-02-16T17:44:37.811Z"
+        }
+      ],
+      "createdAt": "2026-02-16T17:44:30.303Z",
+      "feedback": [],
+      "conditionsHistory": [
+        {
+          "condition": "Panadol",
+          "timestamp": "2026-02-16T17:46:57.488Z"
+        }
+      ],
+      "medicalHistory": [
+        {
+          "id": "1771263877812-hd7g37",
+          "category": "symptom_report",
+          "title": "Symptom Report Submitted",
+          "details": "Pain in the head",
+          "timestamp": "2026-02-16T17:44:37.811Z"
+        },
+        {
+          "id": "1771264017488-nruper",
+          "category": "condition_recorded",
+          "title": "Condition Recorded",
+          "details": "Panadol",
+          "timestamp": "2026-02-16T17:46:57.488Z"
+        },
+        {
+          "id": "1771264031144-8zfqrg",
+          "category": "medication_plan_generated",
+          "title": "Medication Plan Generated",
+          "details": "Pan adol (08:00) | Morphne (08:00, 14:00, 20:00)",
+          "timestamp": "2026-02-16T17:47:11.144Z"
+        }
+      ],
+      "condition": "Panadol",
+      "analysis": {
+        "isSafe": true,
+        "interactions": [],
+        "schedule": [
+          {
+            "medication": "Pan adol",
+            "times": [
+              "08:00"
+            ]
+          },
+          {
+            "medication": "Morphne",
+            "times": [
+              "08:00",
+              "14:00",
+              "20:00"
+            ]
+          }
+        ],
+        "recommendations": []
+      },
+      "medications": [
+        {
+          "name": "Pan adol",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        },
+        {
+          "name": "Morphne",
+          "dose": "per schedule",
+          "frequencyPerDay": 1
+        }
+      ]
+    }
+  ]
+}

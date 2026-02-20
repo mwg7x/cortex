@@ -1,0 +1,13 @@
+<svg width="220" height="72" viewBox="0 0 220 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="218" height="70" rx="15" fill="#F3FAFF" stroke="#C9E5F7" stroke-width="2"/>
+  <rect x="16" y="13" width="46" height="46" rx="12" fill="url(#paint0_linear)"/>
+  <path d="M38.9999 22L42.4999 29.5H51L44.4999 34.5L46.9999 43L39 38L31 43L33.5 34.5L27 29.5H35.5L38.9999 22Z" fill="#FFFFFF"/>
+  <text x="76" y="35" fill="#0A6B9F" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">CoreTex</text>
+  <text x="76" y="53" fill="#4D7188" font-family="Arial, Helvetica, sans-serif" font-size="12">Patient Care Portal</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="16" y1="13" x2="62" y2="59" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D99D5"/>
+      <stop offset="1" stop-color="#16A34A"/>
+    </linearGradient>
+  </defs>
+</svg>

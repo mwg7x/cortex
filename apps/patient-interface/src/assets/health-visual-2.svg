@@ -1,0 +1,12 @@
+<svg width="420" height="220" viewBox="0 0 420 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="220" rx="18" fill="#F2FBF6"/>
+  <rect x="86" y="42" width="92" height="140" rx="16" fill="#FFFFFF" stroke="#BFE7D0" stroke-width="4"/>
+  <rect x="120" y="26" width="24" height="18" rx="5" fill="#16A34A"/>
+  <rect x="104" y="74" width="56" height="10" rx="4" fill="#D8F5E4"/>
+  <rect x="104" y="92" width="56" height="10" rx="4" fill="#D8F5E4"/>
+  <rect x="104" y="110" width="56" height="10" rx="4" fill="#D8F5E4"/>
+  <circle cx="288" cy="88" r="36" fill="#DDF0FF"/>
+  <circle cx="258" cy="150" r="28" fill="#BFE7D0"/>
+  <circle cx="320" cy="150" r="28" fill="#9ED8F4"/>
+  <text x="204" y="44" fill="#0A6B9F" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Medication Support</text>
+</svg>

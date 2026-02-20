@@ -1,0 +1,8 @@
+<svg width="420" height="220" viewBox="0 0 420 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="220" rx="18" fill="#ECF8FF"/>
+  <circle cx="78" cy="74" r="36" fill="#A5D9F4"/>
+  <circle cx="344" cy="148" r="42" fill="#CFF4DE"/>
+  <path d="M40 128H120L148 90L178 150L210 112L244 132H380" stroke="#0D99D5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="28" y="24" width="132" height="34" rx="8" fill="#FFFFFF"/>
+  <text x="40" y="46" fill="#0B5D8C" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Daily Monitoring</text>
+</svg>
