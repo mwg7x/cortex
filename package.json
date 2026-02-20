@@ -1,0 +1,16 @@
+{
+  "name": "coretex",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "coretex-api",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:api": "npm --workspace coretex-api run dev",
+    "dev:doctor": "npm --workspace apps/doctor-interface run dev",
+    "dev:patient": "npm --workspace apps/patient-interface run dev",
+    "build": "npm run -ws build"
+  }
+}
